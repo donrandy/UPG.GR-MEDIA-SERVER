@@ -52,7 +52,7 @@
                   sdposterurl="testing.png"
                   hdposterurl="testing.png"
                   genre1=""
-                  url="http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8"
+                  url="http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8"
                   ishd="true"
                   bitrate="512"
                   streamformat="hls"
