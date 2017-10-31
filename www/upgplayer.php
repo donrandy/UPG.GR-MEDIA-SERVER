@@ -27,9 +27,10 @@ $m3u8= $_GET["m3u8"]; $poster= $_GET["poster"]; $title= $_GET["channel"]; $rtmp 
   </div>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script> 
-<script src="https://github.com/videojs/videojs-contrib-media-sources/releases/download/v4.6.1/videojs-contrib-media-sources.js"></script> 
-<script src="https://github.com/videojs/videojs-contrib-hls/releases/download/v5.12.1/videojs-contrib-hls.js"></script> 
+<script src="//api.peer5.com/peer5.js?id=hd7h1bwrmd47jjsan6s0"></script>
+<script src="//api.peer5.com/peer5.videojs5.plugin.js"></script>
+<link href="https://vjs.zencdn.net/5.18.4/video-js.css" rel="stylesheet">
+<script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 <script> var player = videojs('example-video');</script>
 <script>
   videojs.options.techOrder = ['flash', 'html5'];
