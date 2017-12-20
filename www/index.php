@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ramalin Media Streamer</title>
-<meta property="og:title" content="Media Streamer" />
+<meta property="og:title" content="Ramalin Media Streamer" />
 <meta property="og:description" content="The dead easy media streamer" />
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
