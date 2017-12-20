@@ -48,7 +48,17 @@
                   streamformat="hls"
                   live="true"></item>
           <item type="video"
-                  title="REAL MADRID TV (Test Stream)"
+                  title="CNN"
+                  sdposterurl="testing.png"
+                  hdposterurl="testing.png"
+                  genre1=""
+                  url="http://109.123.114.178:1935/Livenewson/Livenewson14/playlist.m3u8"
+                  ishd="true"
+                  bitrate="512"
+                  streamformat="hls"
+                  live="true"></item>
+          <item type="video"
+                  title="REAL MADRID TV"
                   sdposterurl="testing.png"
                   hdposterurl="testing.png"
                   genre1=""
@@ -57,7 +67,26 @@
                   bitrate="512"
                   streamformat="hls"
                   live="true"></item>
-     
+           <item type="video"
+                  title="Sky News"
+                  sdposterurl="testing.png"
+                  hdposterurl="testing.png"
+                  genre1=""
+                  url="http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+                  ishd="true"
+                  bitrate="512"
+                  streamformat="hls"
+                  live="true"></item>
+          <item type="video"
+                  title="NollyMax TV"
+                  sdposterurl="testing.png"
+                  hdposterurl="testing.png"
+                  genre1=""
+                  url="https://antvchannels.akamaized.net/livehls/57d1397a181f466e038b4567/index-f3-v1-a1.m3u8"
+                  ishd="true"
+                  bitrate="512"
+                  streamformat="hls"
+                  live="true"></item>    
     </item>
   </channel>
 </orml>
