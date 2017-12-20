@@ -25,7 +25,7 @@ $m3u8= $_GET["m3u8"]; $poster= $_GET["poster"]; $title= $_GET["channel"]; $rtmp 
 ?>
 <div class="wrapper">
   <div class="videocontent">
-    <video id=example-video class="video-js vjs-default-skin" preload=none  poster="<?php echo $poster;?>" width=680 height=360  autoplay=true>
+    <video id=example-video class="video-js vjs-default-skin" preload=none  poster="<?php echo $poster;?>" width=100% height=100%  autoplay=true>
       <source src="<?php echo $m3u8;?>" type="application/x-mpegURL">
     <source src="<?php echo $rtmp; ?>" type="rtmp/mp4">
     </video>
