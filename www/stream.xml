@@ -68,11 +68,11 @@
                   streamformat="hls"
                   live="true"></item>
            <item type="video"
-                  title="Sky News"
+                  title="ABC News"
                   sdposterurl="testing.png"
                   hdposterurl="testing.png"
                   genre1=""
-                  url="http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+                  url="http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on"
                   ishd="true"
                   bitrate="512"
                   streamformat="hls"
