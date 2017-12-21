@@ -15,7 +15,7 @@
 <body>
 <div data-role="page" data-theme="b" id="demo-page" class="my-page" data-url="demo-page">     
   <div data-role="header">         
-    <h1>Ramalin Media Streamer - <a href="vlc.m3u">VLC Playlist</a></h1>
+    <h1>Media Streamer - <a href="vlc.m3u">VLC Playlist</a></h1>
         </div>
       
   <div role="main" class="ui-content">         
