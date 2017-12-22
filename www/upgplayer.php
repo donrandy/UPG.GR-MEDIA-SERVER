@@ -10,12 +10,17 @@
 	
 	
 <style>
-.video-js {
-	padding-top: 56.25%
+/* This CSS is required to avoid layout issues */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
-.vjs-fullscreen {
-	padding-top: 0px
-}
+
 </style>
 </head>
 
