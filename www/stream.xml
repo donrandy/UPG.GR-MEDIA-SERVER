@@ -72,7 +72,7 @@
                   sdposterurl="testing.png"
                   hdposterurl="testing.png"
                   genre1=""
-                  url="http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on"
+                  url="http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8"
                   ishd="true"
                   bitrate="512"
                   streamformat="hls"
