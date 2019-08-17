@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ramalin Media Streamer</title>
-<meta property="og:title" content="Ramalin Media Streamer" />
+<title>Ramalin Media</title>
+<meta property="og:title" content="Ramalin Media " />
 <meta property="og:description" content="The dead easy media streamer" />
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
@@ -15,7 +15,7 @@
 <body>
 <div data-role="page" data-theme="b" id="demo-page" class="my-page" data-url="demo-page">     
   <div data-role="header">         
-    <h1>Ramalin Media Streamer - <a href="vlc.m3u">VLC Playlist</a></h1>
+    <h1>Ramalin Media- <a href="vlc.m3u">VLC Playlist</a></h1>
         </div>
       
   <div role="main" class="ui-content">         
